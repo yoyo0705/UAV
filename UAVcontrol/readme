@@ -1,0 +1,6 @@
+test3先固定蓝方动作为0训练红方，再开始对抗，最后论文里的效果
+test1和test2都是直接对抗的，效果不好
+
+环境文件我跟anaconda的环境放在一起，当时搭环境参考的这个
+https://cloud.tencent.com/developer/article/2183273?from_column=20421&from=20421
+自己的路径 F:\ProgramData\Anaconda3\envs\pytorch\Lib\site-packages\gym\envs
